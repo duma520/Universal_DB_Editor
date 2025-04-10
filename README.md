@@ -50,6 +50,7 @@ GitHub：https://github.com/duma520
 - 操作系统：Windows 7+/macOS 10.12+/Linux (主流发行版)
 - 内存：2GB RAM
 - 存储空间：50MB可用空间
+- 
 **推荐配置：**
 - 操作系统：Windows 10+/macOS 10.15+/Linux (最新LTS版本)
 - 内存：4GB RAM或更高
