@@ -267,8 +267,8 @@ python3 Face_Database_Editor.py
 - 基础表结构查看
 ## 14. 技术支持 <a name="技术支持"></a>
 如需进一步帮助，请通过以下方式联系我们：
-- GitHub Issues: https://github.com/duma520
-- 文档Wiki: https://github.com/duma520
+- GitHub Issues: https://github.com/duma520/Universal_DB_Editor/issues
+- 文档Wiki: https://github.com/duma520/Universal_DB_Editor/wiki
 **注意**：我们不提供私人邮箱支持，所有技术支持都通过公开渠道进行，以便其他用户也能受益。
 ---
 **免责声明**：使用本工具操作数据库前，请务必备份重要数据。作者不对任何数据丢失或损坏承担责任。
