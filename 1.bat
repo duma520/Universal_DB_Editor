@@ -1,0 +1,2 @@
+cls
+python Universal_DB_Editor.py
